@@ -19,12 +19,7 @@ body {
   position: absolute;
   width: 80rem;
   height: 100vh;
-   /* top: -10px; */
-  /* left: -30px; 
-   right:-30px; */
-  /* bottom:14px; */
-  /* width: calc(100vw + 60px);
-  height: calc(100vh + 60px);  */
+
   z-index: -1;
   filter: blur(0px);
 }
